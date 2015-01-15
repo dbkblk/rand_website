@@ -179,3 +179,11 @@ Resource Depletion allows for heavily used non-renewable resources to deplete fr
 In Addition to this, mines without any resource also have a small chance of depleting. When a mine depletes, no mines can be built on top of the tile ever again. While this will rarely happen in the early game, by the late game, players will be forced to re-adjust their strategies if they relied too heavily on mines for their production.
 
 To balance this, Players with Resource Depletion installed will also have an increased chance of discovering resources. 
+
+
+
+The goal is to provide the player with the same enthralling experience that Rise of Mankind gave, but with a more powerful AI, new class of features, and in-depth customizability. Where Rise of Mankind provided players with a wide variety of expanded content, Rise of Mankind A New Dawn provides in-depth control and more specialized content that contributes to the gameplay. Existing content has been balanced to make the games challenging. The AI has been enhanced in unit tactics, diplomacy, and city building strategies. Existing features, like nuclear weapons, are even more useful when automatic pre-targeting Mutually Assured Destruction. Tedious tasks, like patrolling your borders for barbarians can be automated. Civilization 4 deserves a better class of mods, mods where players have maximum control over aspect of the game, content, and outcomes. Rise of Mankind A New Dawn is that mod.
+
+ and creating infrastructure, along with incorporating other successful mods, Like Revolutions, Influence Driven War, Next War, and much more.
+
+

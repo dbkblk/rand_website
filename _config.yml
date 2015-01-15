@@ -2,7 +2,7 @@
 
 title:            "Civilization IV: A New Dawn"
 locale:           en_US
-url:              
+url:              #http://anewdawn.sourceforge.net
 
 
 # Jekyll configuration
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: A New Dawn Team
+  name: AND Resurrection Team
   avatar: bio-photo.jpg
-  bio:
+  bio: 
   email: 
   disqus-shortname: 
   twitter: #username

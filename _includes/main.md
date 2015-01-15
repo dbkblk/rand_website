@@ -1,6 +1,10 @@
-# THIS SITE IS A WORK IN PROGRESS
+# The ultimate Civilization IV experience
 
-#The ultimate Civilization IV experience
-Rise of Mankind: A New Dawn is an expansion of the former, and incredibly popular Civilization 4: Beyond the Sword Mod, Rise of Mankind, by Zappara. Rise of Mankind attempts to simulate history, but was not intended to be a perfect historical simulator, like Rhye's and Fall of Civilization is; instead it follows mostly historical lines, but allows for those "What-If" scenarios to occur. Rise of Mankind serves as an expansion from Beyond the Sword, adding a huge new technology tree, putting great importance on buildings and creating infrastructure, along with incorporating other successful mods, Like Revolutions, Influence Driven War, Next War, and much more.
-
-The Goal of A New Dawn is to provide the player with the same enthralling experience that Rise of Mankind gave, but with a more powerful AI, new class of features, and in-depth customizability. Where Rise of Mankind provided players with a wide variety of expanded content, Rise of Mankind A New Dawn provides in-depth control and more specialized content that contributes to the gameplay. Existing content has been balanced to make the games challenging. The AI has been enhanced in unit tactics, diplomacy, and city building strategies. Existing features, like nuclear weapons, are even more useful when automatic pre-targeting Mutually Assured Destruction. Tedious tasks, like patrolling your borders for barbarians can be automated. Civilization 4 deserves a better class of mods, mods where players have maximum control over aspect of the game, content, and outcomes. Rise of Mankind A New Dawn is that mod. 
+Rise of Mankind: A New Dawn is a new sequel of the great Civilization 4: Beyond the Sword game. A New Dawn serves as a new expansion, adding a huge and balanced new technology tree, putting emphasis on new buildings, new units and new technologies.<br>
+<br>
+Based on the incredibely popular former "Rise of Mankind" mod, developped by Zappara, this extension put Civilization IV even further. It contains a powerful new AI, charismatic new leaders, revolts and revolutions of the people, adaptative difficulty, advanced diplomacy, automatised defense tasks, and so much other enhancements... In short, that is nearly a whole new game.<br>
+<br>
+Last, but not least, it is built to be as flexible as possible, so you can choose whatever new option you like, and uncheck those you like a little less (if any...).<br>
+<br>
+**You always play the game you like.**<br>
+<center><a href="{{ site.url }}/pages/features/"><strong>Discover all the features it provide</strong></center>
