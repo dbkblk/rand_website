@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Features
+  url: /pages/features/
+
+- title: Installation
+  url: /pages/install/
+  
+- title: FAQ
+  url: /pages/faq/
+
+- title: Credits
+  url: /pages/credits/
+
+- title: Forum
+  url: http://forums.civfanatics.com/forumdisplay.php?f=369
