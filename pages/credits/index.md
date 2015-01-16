@@ -129,5 +129,5 @@ In 2015, 8 years later, the expansion is now still developped, expanded, polishe
 - **Ruff_Hi**: Ring World.
 
 <hr>
-*Hey ! I've done something for the mod team and you've forgot me !* Sorry about that, just let us know it on the forum and we'll update this list :).
+*Hey ! I've done something for the mod team and you've forgot me !* Sorry about that, just let it us know on the forum and we'll update this list :).
 

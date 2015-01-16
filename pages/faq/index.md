@@ -73,16 +73,16 @@ image:
 : Our team is composed, mainly, of humans. We make mistakes. So [_please report the bug on the forum thread_](http://forums.civfanatics.com/showthread.php?t=474185) ! A screenshot and/or a save, along with your _ANewDawn.log_ (located in "My Documents/Beyond the Sword/Logs/") would also be helpful.
 
 <hr>
-# _Configure the mod_
+# _Mod configuration_
 
 **Where can i configure all the options ?**
 : There are three ways to choose features in this expansion:
 
 - **In the launcher**: Just open it, go to options. There you can find graphical options (interface color, terrain textures, formations,...).
-- **When you are going to start a new game**: When you load the mod, go to _Custom Game_ to start a new game, then select the features / options that you want to activate. Note that there is an explanation popup is you hover the mouse over a tickbox.
-- **Directly in-game**: Once you've loaded a game, click on the _bug_ icon at the upper left of the screen (or press _CTRL_ + _ALT + _O_) and wait for the window to open. There are three differents types of parameters in the various tabs:
+- **When you are going to start a new game**: When you load the mod, go to _Custom Game_ to start a new game, then select the features / options that you want to activate. Note that there is an explanation popup for each option when you hover the mouse over a tickbox.
+- **Directly in-game**: Once you've loaded a game, click on the _ladybird_ icon at the upper left of the screen (or press _CTRL_ + _ALT_ + _O_) and wait for the window to open. There are three differents types of parameters in the various tabs:
 1. *RevDCM* allows you to configure all the aspects relative to the revolutions, barbarian civilizations, dynamic civilization naming, etc.
-2. *A New Dawn* contains all the options that should affect the gameplay and some graphical options.
+2. *A New Dawn* contains all the options that should affect all other aspects of the gameplay and some graphical options.
 3. *All the other tabs* are used to configure all the graphical aspects of the interface (from the _BUG_ project)
 
  <br>
