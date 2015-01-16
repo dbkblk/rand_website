@@ -21,7 +21,7 @@ image:
 
 # History
 
-Back in 2007, _Zappara_, a wizard of Civilization IV modding, has begun to work on a new mod, named _Rise of Mankind_. Quickly incredibely popular, it attempts to simulate history, but was not intended to be a perfect historical simulator, like _Rhye's and Fall of Civilization_; it follows mostly historical lines, but allows for those "What-If" scenarios to occur.
+Back in 2007, _Zappara_, a wizard of _Civilization IV_ modding, has begun to work on a new mod, named _Rise of Mankind_. Quickly incredibely popular, it attempts to simulate history, but was not intended to be a perfect historical simulator, like _Rhye's and Fall of Civilization_; it follows mostly historical lines, but allows for those "What-If" scenarios to occur.
 
 In 2009, another wizard called _Afforess_ started to expand it even further with _Rise of Mankind: A New Dawn_.
 

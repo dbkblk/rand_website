@@ -7,4 +7,9 @@ Based on the incredibely popular former _Rise of Mankind_ mod, developped by _Za
 Last, but not least, it is built to be as flexible as possible, so you can choose whatever new option you like, and uncheck those you like a little less (if any...).<br>
 <br>
 **You always play the game you like.**<br>
-<center><a href="{{ site.url }}/pages/features/"><strong>Discover all the features it provides</strong></center>
+<center><a href="{{ site.url }}/pages/features/">- <strong>Discover all the features it provides</strong> -</center>
+<!---
+<br>
+<br>
+
+<center><a class="popularitybtn" title="Rise of Mankind: A New Dawn popularity on Mod DB"><img src="http://button.moddb.com/popularity/medium/mods/14429.png" alt="Rise of Mankind: A New Dawn"></a></center>-->
