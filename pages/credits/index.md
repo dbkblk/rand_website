@@ -38,7 +38,7 @@ In 2015, 8 years later, the expansion is now still developped, expanded, polishe
 ## A New Dawn modding team
 
 - **45°38'N-13°47'E**: Mod manager; DLL coding, python, XML, balancing.
-- **Afforess**: Creator of _A New Dawn_, still keep an eye on the project; DLL coding, python, XML, balancing.
+- **Afforess**: Creator of _A New Dawn_, still keeps an eye on the project; DLL coding, python, XML, balancing.
 - **Vokarya**: Focus on balancing buildings, tech. tree, units and wonders; XML, Python.
 - **JosEPh_II**: Help to bugfix; XML and support.
 - **dbkblk**: Support developper and community management; translation platform & new languages support, french translation, launcher.
