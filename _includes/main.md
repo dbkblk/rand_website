@@ -7,4 +7,4 @@ Based on the incredibely popular former "Rise of Mankind" mod, developped by Zap
 Last, but not least, it is built to be as flexible as possible, so you can choose whatever new option you like, and uncheck those you like a little less (if any...).<br>
 <br>
 **You always play the game you like.**<br>
-<center><a href="{{ site.url }}/pages/features/"><strong>Discover all the features it provide</strong></center>
+<center><a href="{{ site.url }}/pages/features/"><strong>Discover all the features it provides</strong></center>

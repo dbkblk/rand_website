@@ -1,189 +1,193 @@
 ---
 layout: page
-title: "Features"
+title: "New features (since Beyond the Sword)"
 date: 2015-01-15
 modified:
 excerpt: "List the features of the mod"
 tags: []
 image:
-  feature: sample-image-1.jpg
+  feature: features.jpg
 ---
 
-# Afforess post
-Advanced Diplomacy
-Advanced Diplomacy adds depth and realism, making diplomacy dangerous and important for any player that wants to succeed. The AI is fully aware of all the new diplomacy options, and will trade for them, or in return for them.
-
-    Embassies
-        Embassies are a vital agreement that must be made before Open Borders or any form of alliance can be made with any other civilizations.
-    Right of Passage
-        Rights of Passage are a limited form of Open Borders. They only allow non-combatants and trade through the borders.
-    Contact
-        Players can sell contact with other civilizations, if they have not met the third party.
-    Cease Relations With
-        Players can pay for civilizations to cease all contact with enemy civilizations - more effective than embargos.
-    Pay War Reparations
-        Players can pay war reparations and rebuild relations with former enemies.
-    Trading Workers
-        Players can buy and sell workers on the market.
-    Trading Military Units
-        Heavy Military units, like Aircraft, ships, and siege machinery can be bought and sold to other players.
-    Trading Corporation HQ's
-        Players can sell and buy the headquarter of corporations.
-    New AI Memories
-        The AI will know when you start lots of wars between others, or when you backstab a good friend. Don't expect them to forgive you for being manipulative. However, deciding NOT to declare war when asked may grant you better relations with the targeted nation.
-
-
-Foreign Policies
-Choose foreign policy civics that influence other civilizations. Choose to intercept & seize foreign trade at your borders, or receive tribute from weaker civilizations looking to appease you. Isolate your civilization from the world and focus on your economy, or intervene and expand your trade influence at the expense of others. Be charitable and contribute to the redevelopment of weaker civilizations. Every choice you make will help, or hurt your relations with other civilizations.
-
-
-Ruthless AI
-The Ruthless AI Gameoption will make the AI much more manipulative and harder to beat than normal or Aggressive AI. The AI will use techs and gold to hire war allies, often sparking small border disputes into raging world wars that ultimately will work to their advantage. Expect to be sneak attacked, or worse, blitzed, as the AI siezes poorly defended border cities, and gobbles up smaller city-states. The AI will remember your breaches of trust more keenly; it may be wiser to die an honorable death then become the next Benedict Arnold. Lastly; suspect every AI request; an ordinary map request may actually be a search for future attack sites, so be prepared for pre-emptive strikes.
-
-Expanded Cities, Multiple Production & Multiple Research
-With the Larger Cities, your cities will expand to a third level of workable tiles at "Influential" culture. Your cities will be able to work 37 tiles, and become large powerhouses. Just be warned, unhappiness and unhealthiness will plague the cities, as their size spirals out of control. These expanded cities will likely take advantage of Multiple Production, which allows them, if they have enough overflow production, to build multiple units or buildings in one turn. Likewise, if your research becomes high enough, you could research more than one tech in a turn.
-
-Usable Mountains
-With Usable Mountains, every peak will give 3 , and will become passable after the research of "Mountaineering". Mountains give +75%, the largest in the game, and become strategically important to research, especially if others already have the ability to cross them. A special promotion is available to Great Generals that allows them to cross peaks before researching Mountaineering, so that your armies can elude more backwards defenders and raid and pillage enemy land with easy.
-
-Defender Retreat
-With Defender Retreat, defending units that have a withdraw chance, and are not in a city have a chance, if possible, to retreat backwards towards a safe tile. (A safe tile is one where there are no enemy units around it in any direction).
-
-Dynamic and Fractional Experience Gain
-Unit XP is now saved in fractional values, and units gain experience dynamically, depending on their battle success and the odds. The less likely a unit will win a battle, the more XP it will receive, to a maximum of 6XP attacking or 3XP defending. Units will always receive a minimum of 0.25XP. In battle, the less health the units lose, the more XP the units can earn, so that players are forced to make more strategic attacks, and that players can no longer gain significant amounts of XP by attacking very weak units.
-
-Great Commanders
-Great Commanders replaces the ability for Great Generals to join with a unit, and instead, they lead units into battle by being near battles. If a great general is near or on the site of a battle they will earn 1XP each time your forces win (up to 5XP a turn), and can earn special Commander-Only promotions that apply to your entire nearby army. Great Commanders can help your units withdraw from one-sided battles, or give your forces the edge they need to destroy the enemy. Use their promotions to turn the tide, and the odds in your favor. Just don't be surprised when the AI uses them against you too!
-
-Fixed and Realistic Borders
-Fixed Borders stops enemy culture from shifting your borders, but only with certain civics. Yours, and enemy units can claim tiles and shift their allegiance to you, even without any culture. Forts now give off 1 culture per turn, and can be used to claim frontier land, before someone else does. Forts that have defending units in them also give off a Zone of Control, one tile around them. Enemy units that enter this zone of control will be forced to confront and attack the fort, or retreat out of the area. By strategically building forts, one could create a nearly impenetrable wall of forts, where all the choke-points where heavily defended forts. Realistic Borders causes culture to spread based on the terrain and features on the land, more quickly on grassland and plains, but slower over peaks and densely vegetated areas.
-
-Save Compatability
-Created by Koshling, frame the Caveman 2 Cosmos mod, Rise of Mankind: A New Dawn uses a new save format which ensures games remain compatible and can be loaded no matter what - even when the game code, content, or other features change. RAND has remained fully save compatible with previous games from previous releases of the mod dating over 2 years old. Never lose a game when the mod updates. Never fear updates or new content. We take care to ensure saves will be compatible forever.
-
-United Nations
-Ever wanted to play with the UN, but hated when the AI used it to win the game? Use the United Nations gameoption, and the UN will still be active without Diplomatic Victory, and no one will be able to use it to win, but you can still have all the other normal votes.
-
-No Future Era
-Some players simply dislike the late game. It's understandable, because Rise of Mankind lasts about 100 years longer than Beyond the Sword does. The No Future Era option fixes that. The tech tree will hide all the tech's past the modern era (except for the Future Tech), and blocks players from getting futuristic technology.
-
-xUPT
-One of the most interesting (and controversial) features of Civilization 5 is the 1UPT rule. xUPT mimics this, in a customizable fasion. Instead of limiting yourself to only 1 unit, you can make it 10 units, 5, or 100, and any number in-between, dynamically, inside the game. After 100 turns, if you feel 5 is too many or too few, just change it and go play the same game some more!
-
-Fine-Tuned Automations
-Ever want to automate your units, but feel like they make too many mistakes? Wish you could fine tune what they can and can not do? Now you can. There's 100's of options to chose from. Restrict your workers from building forts around your capital, but allow it around your border cities, while allowing paths nationwide and banning paved roads. Or disable farms in all cities but one, and allow mines in all of them. Or anything in-between. Even your combat troops have further controls. Want to control what odds your units will attack at? Now you can! 
-
-#Current 1.75 Features:
-
-New Game Options
-Game Options are selected in the custom game screen.
-
-Multiple Production
-
-Multiple Production allows cities to produce more than one building or unit whenever possible. If a city has overflow production from the last item, it will be applied to the next item in the city queue. If the overflow production is enough to complete the next item, this process repeats. With large military cities, you can easily create multiple missiles or infantry units in one turn.
-
-Multiple Research
-
-The same concept as Multiple Production. If you have enough overflow beakers from your last research project to complete the next technology in the queue, you will research multiple technologies in one turn.
-
-Usable Mountains
-
-Usable Mountains transforms peaks from wasted space to strategic chokepoints and useful industrial locations. Resources can and will spawn on peaks, and units will be able to move over peaks after you have researched Mountaineering. After researching Algebra, cities can be constructed on peaks. Peaks now give 3 , but no food or commerce. Any improvements that can be built on hills can be built on peaks as well.
-
-There is a new promotion, Mountaineering, available to Great General units. With it, all the units in the group will be able to cross over peaks without the aid of the Mountaineering tech. Peaks offer units a 75% defense bonus, the largest in the game.
-
-Fixed Cultural Borders
-
-Fixed Cultural Borders completely changes the way borders worked. Instead of Culturally-Driven borders, Military force and might dictate the spread of borders. With Fixed Borders, Units have new command "claim territory" that you can apply in an enemy territory. You claim it, next turn the plot is inside your borders. In order to recapture it, enemy must place his forces on that plot and do the same ("claim territory").
-
-When capturing cities, you get all the territory that the city 'provides' to its original owner. So when you're at war with someone and capture all his cities, you will get ALL his territory, up to the last plot (there's only one exception to this rule - the tiles that are not 'provided' by cities, but claimed by force can remain in the old civ, but for sure they can't go to other neighboring civ that is neutral in war). In order to keep all this territory you need only the military force. No neighbor of his that is at peace with both sides can benefit from the war. If someone wants that territory – he must declare war and capture it or trade for it (city trading, like in normal game).
-
-During a war, if a tile has more of your tiles surrounding it than the enemys, it is claimed automatically, if no enemy units are defending it. This makes the borders less shredded at the end of war.
-
-If you are not using a civic that "forces" fixed borders, the game acts as before (i.e. the culture defines borders) and once a player has the necessary civics all of his territory becomes ‘fixed’, no one can take it by culture means anymore and his units get the new command to execute when in enemy territory (‘claim territory’). The player still culturally expands his borders over unoccupied territory and over nations that don’t have fixed borders (think of the Roman Empire that enforced its own borders, but influenced the surrounding tribes that had no solid state formed).
-
-Surround and Destroy
-
-Surround and Destroy gives attack bonuses for surrounding enemy forces. The more units you have around and enemy, the larger the bonus, up to the maximum of 60%. Particularly useful for sieging medieval cities.
-
-Advanced Diplomacy
-
-Advanced Diplomacy vastly changes the way diplomacy works from standard Civilization. Many new trading options are added, each with their own benefits, and potential disadvantages.
-
-Embassies
-
-Nations can now establish embassies in other nations. Embassies improve diplomatic relations between countries, but be warned; revoking a foriegn embassies rights will have disastrous diplomatic repercussions with the other nation. Embassies also allow the trade of Military Units and Workers between countries. In addition, Embassies are now required to unlock higher diplomatic functions with other nations, namely, Open Borders Agreements and Defensive Pacts. Be warned, Embassies allow for enemy spies to more easily complete their missions in your country.
-
-Right of Passage
-
-When players research Writing, they can request to have a Right of Passage agreement between two civilizations. The agreement is similar to open borders, in that it allows foreign trade, but the agreement only allows for defensive units to pass through the nations. Offensive units will not be able to enter the territory.
-
-Trading Military Units
-
-Certain Military units, like siege machines can be traded, with Advanced Diplomacy. To be traded, each player must have an embassy in the other players nation. Each tradable unit will be marked in it's respective civilopedia entry with "This unit is tradable."
-
-Trading Workers
-
-Workers, can be traded, with Advanced Diplomacy. To be traded, each player must have an embassy in the other players nation
-
-Buying and Selling of Corporations HQ's
-
-Nations, if they happen to own a corporation Headquarter, can also sell it to other nations, where it will be automatically moved to one of their cities. If a nation does not own the particular Corporation Headquarter, they can offer to buy it from the owner.
-
-Trading Contact with Other Civilizations
-
-Nations can buy and sell contact with other civilizations that they have not yet met. It allows you to meet civilizations who you would not otherwise be able to trade with for many centuries.
-
-Barbarian Generals
-
-Barbarian Generals allows units to gain Great General experience from combat with Barbarians. It also allows barbarians to get experience as well, and they will be able to spawn their own Barbarian Great Generals.
-
-Assimilation
-
-When you capture an enemy city, it retains the personality of the former owner. The conquering player will be able to build the former owner's Unique Unit and Unique Buildings in that city instead of their own.
-
-Ruthless AI
-
-The ultimate challenge. Ruthless AI removes any human aspects from the AI, making them cold, calculating, and cunning. The AI will expand strategically into nearby targets, destroy threats, and use diplomacy to it's advantage. Watch small border conflicts flare up into International conflicts, with the entire world arrayed against you.
-
-Great Commanders
-
-Great Commanders are a new use of Great Generals. While players will still be able to attach Generals to units or settle them in cities, they will also be able to use the general unit in stacks, and have Great Generals receive XP from successful combat in nearby tiles. Great Generals will be able to earn promotions from this XP, and the promotions will boost the stats of all nearby units. Other promotions can extend the command range of the general (the radius in which the general's effects may be felt) or the amount of effects the promotions provide.
-
-Realistic Culture Spread
-
-Culture will spread in a more realistic fashion, more quickly over low lying lands, like plains and grasslands, and slower over heavily forested hills and peaks.
-
-New Content
-
-Guilds
-
-Guilds are a medieval variant of corporations. There are twelve total guilds, part of three separate branches, the Servant Guilds, the Victualers Guilds, and the Craft Guilds. Each of the twelve guilds offers separate benefits to cities that incorporate them, be it health, happiness, production, science, or wealth. Spreading guilds is identical to spreading corporations, except it doesn't cost money. Guilds will, however, incur maintenance fees; the best way to alleviate these fees is to use the "Guilds" economic civic. Guilds are very useful for increasing city production or making your cities happy and healthy. Most guilds become obsolete in the Industrial Era.
-
-Modern Corporations
-
-Modern Corporations expands the amount of Corporations in the late game. Corporations that give increased military training and experience are useful for catch-up. Other corporations can give happiness, health, culture, science, commerce, or espionage against rivals.
-
-Advanced Nukes
-
-Advanced Nukes expands the nuclear arsenal available to players, allowing players to access advanced biological weapons, and nuclear weapons that can destroy entire continents. Chemical and Germ warfare can be used, to ruin even coastal land, and utterly annihilate a city to nothing. Advanced Nukes provides the finest and latest gear in the art of destruction.
-
-Mastery Victory
-
-Mastery Victory is the ultimate victory condition. Players must survive to the end of time, and be the most powerful player. Having cities with legendary culture, or constructing wonders adds to your final score. Spreading your religion to the most cities also boosts your score. The player with the highest score at the end of time wins.
-
-Resource Depletion
-
-Resource Depletion allows for heavily used non-renewable resources to deplete from the the game. Each turn, the game measure how much you are using a resource, and based on your usage, the chance of depletion changes. As you rely more and more on a particular resource, the odds of it depleting increase.
-
-In Addition to this, mines without any resource also have a small chance of depleting. When a mine depletes, no mines can be built on top of the tile ever again. While this will rarely happen in the early game, by the late game, players will be forced to re-adjust their strategies if they relied too heavily on mines for their production.
-
-To balance this, Players with Resource Depletion installed will also have an increased chance of discovering resources. 
-
-
-
-The goal is to provide the player with the same enthralling experience that Rise of Mankind gave, but with a more powerful AI, new class of features, and in-depth customizability. Where Rise of Mankind provided players with a wide variety of expanded content, Rise of Mankind A New Dawn provides in-depth control and more specialized content that contributes to the gameplay. Existing content has been balanced to make the games challenging. The AI has been enhanced in unit tactics, diplomacy, and city building strategies. Existing features, like nuclear weapons, are even more useful when automatic pre-targeting Mutually Assured Destruction. Tedious tasks, like patrolling your borders for barbarians can be automated. Civilization 4 deserves a better class of mods, mods where players have maximum control over aspect of the game, content, and outcomes. Rise of Mankind A New Dawn is that mod.
-
- and creating infrastructure, along with incorporating other successful mods, Like Revolutions, Influence Driven War, Next War, and much more.
-
+<!--- Written at revision 868 -->
+
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
+# Smart and balanced technology tree
+
+<center><img src="{{ site.url }}/images/feat_techtree2.jpg"></center>
+<center>A excerpt of the new tech tree</center>
+
+**New technologies**
+: The technology tree has been heavily reworked to be well balanced between usefulness, historical accuracy, research costs, buildings, civics and units delivered. The realistic timescale algorithm ensure that great discoveries are more or less in phase with the real historical dates. Countless new technologies have been added.
+  
+**New units**
+: Hunt lions with the new early slinger, control the ocean with the attack submarine, charge your foes with the mounted cavalry or send an intercontinental missile. Every unit is thought to be useful and not superfluous.
+  
+**New buildings & wonders**
+: From the early apiary to the vertical farms, develop your cities and please your people with new buildings.
+Draw in the Lascaux caves, found the hanseatic league or create the olympic games, everything is possible in A New Dawn !
+  
+**Totally rebalanced with the community feedback**
+: New buildings, civics, units, wonders has been discussed, modified, updated to look for the perfect balance. It will continue to evolve as the expansion is in continuous development.
+  
+**Disable what you don't like**
+: If you don't want to play in the new futuristic era or don't like to be embarrassed by nukes, you can disable both the options.
+
+<hr>
+# Revolutions
+<center><img src="{{ site.url }}/images/feat_revolt.jpg"></center>
+<center>A revolt of the britain people of Shanghai</center>
+**Empire stability**
+: Every decision you make in terms of civics or war acts can lead your people to make strike movements, revolts or even ask for independance. Will your iron fist be solid enough not to bend against your people will ? Will you be a loving and good president ?
+
+**Minor civilizations**
+: The game can be started as minor civilizations. Everyone is at war and no diplomacy is possible until the discovering of the writing. Then, you can try to make peace with your evolved peers, but war can leave unfortunate traces.
+
+**Barbarians evolve !**
+: Barbarians cities can emerge to minor civilizations as the game evolve. A new leader will settle with a brand new army. Don't underestimate them, as they can get up to your technology level, and may be, later, the future dominant civilization. 
+
+**Dynamic civ names**
+: (*Only works in English and French*) Following the civics chosen by their leaders, civilization can get new names. You might meet the "abyssinian great kingdom", the "english principality", the "arabian city-state of Mecca" or the "mayan rebels".
+
+
+**Absorb your vassals**
+: If a vassal becomes too small to evolve, even with the master's help, it might asks to be absorbed by the master and retreat.
+
+<hr>
+# Advanced Diplomacy
+<center><img src="{{ site.url }}/images/feat_diplomacy.jpg"></center>
+<center>Qin Shi Huang doesn't seems to want an agreement today</center>
+**Diplomacy pushed to the limit**
+: New depth and realism makes the diplomacy more dangerous and important than ever. The AI is fully aware of all the new diplomacy options, and will trade for them, or in return for them.
+
+**Set an embassy**
+: Embassies are a vital agreement that must be made before open borders or any form of alliance can be made with any other civilizations.
+
+**Sign a right to pass**
+: Rights of passage are a limited form of open borders. They only allow non-combatants and trade through the borders.
+
+**Use contact as a merchandise**
+: Players can sell contacts with other civilizations, if they have not met the third party.
+
+**Cease all relations with**
+: Players can pay for civilizations to cease all contact with enemy civilizations - more effective than embargos.
+
+**Pay war reparations**
+: Players can pay war reparations and rebuild relations with former enemies.
+
+**New trading options**
+: Workers or heavy military units, like aircrafts, ships, and siege machineries can be bought and sold to other players. You can even sell and buy corporations' headquarters.
+
+**Foreign policies**
+: Choose a foreign policy civic. Will you avoid others to develop their trade routes ? or will you ask the tithe to the weakers ? or maybe dominate the market world ? YOU decide, but be warned of the consequences.
+
+<hr>
+# Brand new AI
+<center><img src="{{ site.url }}/images/feat_newai.jpg"></center>
+<center>A rude AI war between aztecs and incas</center>
+**Smarter AI**
+: A lot of work has been put on artificial intelligence by the Civilization 4 community. Thanks to this, the AI benefits from bugfixes, enhanced ability to perform coordinated actions, to take economic decisions and will play better to the victory !
+
+
+**New AI memory**
+: The AI will know when you start lots of wars between others, or when you backstab a good friend. Don't expect them to forgive you for being manipulative. However, deciding NOT to declare war when asked may grant you better relations with the targeted nation.
+
+<hr>
+# Brand new graphics
+**Cultural diversity**
+: <center><img src="{{ site.url }}/images/feat_cultural.jpg"></center>
+Each civilization has its history and traditions. Cultural diversity is a module that reflect graphically this profusion.
+
+**Terrain textures sets**
+: <center><img src="{{ site.url }}/images/feat_textures.jpg"></center>
+Are you bored by the default terrain textures ? The mod compiles the best textures ever created for the game through 5 sets: Original, A New Dawn, Blue Marble, Sparth and Vincentz.
+
+**Formations**
+: <center><img src="{{ site.url }}/images/feat_formations.jpg"></center>
+Do you feel battles are a little too quiet ? Activate the formation setting to replace the three usual graphical units by a horde of units.
+
+
+<hr>
+# Adaptative difficulty
+<center><img src="{{ site.url }}/images/feat_difficulty.jpg"></center>
+<center>Leave him alone ! He's angry !</center>
+**Flexible difficulty**
+: The flexible difficulty algorithm set handicaps for the humans and the AI relatively to the score. Thus, low score civilizations will get bonus and high score's will get handicaps. The game difficulty will then dynamically adapt to your skill, to ensure you will get a challenging but balanced game.
+
+**Ruthless AI**
+: The ruthless AI will be manipulative and harder to beat than normal. It will use techs and gold to hire war allies, often sparking small border disputes into raging world wars that ultimately will work to their advantage. It will always hit where it hurts.
+
+**Do you want more challenge ?**
+: We have been thinking of you ! Three options can make your game a challenge; *Final five* which remove the civilization with the lowest score every 50turns; *High to low* which push you in control of the lowest score civilization every time you reach the highest score (3 times limit); or *Increasing difficulty* which increases the difficulty level every 50 turns until you reach the ultimate level, deity.
+
+<hr>
+# Fully customizable interface
+<center><img src="{{ site.url }}/images/feat_custgui.jpg"></center>
+<center>The domestic advisor resume invaluables cities informations</center>
+**Redefined interface**
+: The fully customizable interface is the accomplishment of the community BUG project, which sets the Civilization IV interface to a new level. In doing so, the expansion is set to show precious informations about your rivals (power, religion, resentment...), right besides the score. Advisors are now really detailled.
+
+**Not enough ?**
+: BUG adds tons of customization so you can add any information you want to the advisor' screens.
+
+<hr>
+# Translated in several languages
+<center><img src="{{ site.url }}/images/feat_translations.jpg"></center>
+<center>Dynamic civilization names also works in french</center>
+<br>
+The game currently supports many languages, although not all are fully translated:
+
+- **Complete or nearly complete translations**: ![en]({{site.url}}/images/flag_en.png) English, ![fr]({{site.url}}/images/flag_fr.png) French & ![pl]({{site.url}}/images/flag_pl.png) Polish.
+- **Partial translations**: ![fi]({{site.url}}/images/flag_fi.png) Finnish, ![de]({{site.url}}/images/flag_de.png) German, ![hu]({{site.url}}/images/flag_hu.png) Hungarian, ![it]({{site.url}}/images/flag_it.png) Italian & ![es]({{site.url}}/images/flag_es.png) Spanish.
+- **Currently in-progress**: ![ru]({{site.url}}/images/flag_ru.png) Russian.
+
+Thanks to the usage of a platform it is easy to contribute to translate the game into your native language: [Read instructions on the forum](http://forums.civfanatics.com/showthread.php?t=526671)
+
+<hr>
+# Many other improvements
+<center><img src="{{ site.url }}/images/feat_leaders.jpg"></center>
+<center>Will you meet Hirohito or Charles Quint ?</center>
+- **New leaders**: Not less than 26 new leaders are part of this expansion among Cleopatra, Charles Quint, Hirohito, Henri VIII, Nebuchadrezza, Lenin, and many others.
+- **New events**: Sir ! The medecines have found a remedy against the plague which spreads on our empire, but it isn't tested on humans yet. Should we apply it ?
+- **New speeds**: If you find a specific era too fast to enjoy it, you might love the new snail speed. If you want a quick-game, then try the new blitz speed !
+- **New map scripts**: Several new map scripts have been added, from the inland sea of mediterranea to the smartmap generator. Every map will be different !
+- **Multiple production & research**: In case of excedent of production or research, the overflow will be used for the next production or research during the same turn.
+- **Realistic culture spread**: Culture spreads based on the terrain, faster on clearlands and slower over peaks and dense vegetation, with more intermediate cultural levels.
+- **Technology diffusion**: Discovered technologies are slowly diffused through borders and commercial routes as soon as more and more civilizations have discovered it.
+- **Great commanders**: Great generals can transform into great commanders to give your nearby army some bonuses on the field.
+- **Barbarian generals**: The strongests barbarian hordes will get great generals trying to terrify theirs neighbours.
+- **Dynamic experience gain**: Units now gain experience relatively to the difficulty of the unit they've fought, making battles more interesting.
+- **Advanced cargo mod**: Modern ships can now carry guided missiles and rockets while modern carriers can carry all the aircrafts except heavy bombers.
+- **Defender retreat**: Defending units with a withdraw chance can eventually retreat backward towards a safe tile.
+- **Fixed borders**: Use forts to generate culture and claim frontier lands or protect your lands with theirs zone of control to force the enemy to siege.
+- **Assimilation**: When a city is captured, it retains the personality of the former owner, so his unique unit and building in that city can be build instead of conquerant's own.
+- **Usable mountains**: The discover of "mountaineering" allows to cross mountains, so it can allow crucial strategic moves for early discoverers.
+- **Medieval guilds**: Guilds are a medieval variant of corporations which can be spread all over the world. They add maintenance fees that go on pair with the new guild civic.
+- **Modern corporations**: Modern corporations expand the amount of corporations in the late game, giving new opportinuties to economically overpass your peers.
+- **Caravans**: Use the caravans to transfer merchandizes from growing cities to small cities to help them to grow or make ponctual commerce with your neighbours.
+- **Resource depletion**: As in real world, resources aren't eternal. Mineral resources can run dry over exploitation, but probability to discover new ones is increased.
+- **United Nations**: It is possible to play with the United Nations without the need to activate the diplomatic victory option.
+- **Fine-tuned automations**: Many new automations like 'automated patrol' or 'protect borders' avoid to having the need to micro-manage your empire.
+- **Mastery victory**: Mastery victory is the ultimate victory condition. Players must survive to the end of time and spread their culture, religion and power over the world.
+- **AIAutoPlay**: Ever wanted to let the AI play your empire ? Or wanted to start with a settled empire ? Let the AI play for some turns, then take the control back.
+- **Units per tiles**: Tiles can be set to host a limited number of units. It creates a whole new strategic dimension to the game. *Unfortunately, this option is unstable under 20units/tile.*
+
+<hr>
+# Technical features
+<center><img src="{{ site.url }}/images/feat_technical.jpg"></center>
+<center>Civilization IV is powered by C++, Python and XML.</center>
+**Savegame compatibility**
+: Created by the C2C mod team, a reliable algorithm ensure savegame compatibility after updates. Your savegame will be forever compatible with past and future releases.
+
+**Increased game performance**
+: Created by the C2C mod team, the graphics paging option allow to virtually remove all MAF errors seen in Beyond the Sword and other heavy mods, and dramatically increase graphical performance on latter games.
 

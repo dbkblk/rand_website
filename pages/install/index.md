@@ -1,12 +1,101 @@
 ---
 layout: page
 title: "Installation"
-date: 
+date: 2015-01-16
 modified:
-excerpt:
+excerpt: "Install Civilization IV: A New Dawn"
 tags: []
 image:
-  feature:
+  feature: installation.jpg
 ---
 
-# SITE IN CONSTRUCTION
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
+
+_**This expansion is in continuous development, so expect updates every month.**_
+<hr>
+The are three ways to install this expansion pack, but all roads lead to Rome !
+
+<hr>
+# Online installer
+
+If you have an internet connexion, the easiest method is to download our online installer:
+
+<center><a href="http://sourceforge.net/projects/anewdawn/files/latest/download?source=files"><img src="{{ site.url }}/images/download_small_green.jpg" alt="Download now" width="50"  height="50" border="0" /><strong>DOWNLOAD ONLINE INSTALLER NOW</strong></a></center>
+  <br>
+
+
+**Instructions**
+:
+
+- Make sure you have Civilization IV - Beyond the Sword installed and patched to 3.19 or have the steam version (automatically patched).
+- Download the installer
+- Execute it
+- Select the installation language (you can change it later)
+- Select the installation folder (default is recommended)
+- If you are absolutely sure than you already have MSVC2010, you can untick the box, but otherwise, let it ticked.
+- The launcher is installed then start to download the required files and create shortcuts on the desktop and in the start menu.
+- Once finished, the launcher is restarted and you can enjoy the expansion !
+
+The launcher can be use to select textures sets, graphical formations option and update the game easily.  
+ <br>
+
+**Special note for Steam users**
+: A while ago, the online internet service Gamespy has shut down, and Firaxis have released a patch to be able to continue to play online using Steam. While this is a wonderful news, they also introduced a bug which prevents the religion icon to be displayed into the score (at the right bottom of the ingame screen). Yet, they allow to use the old patch.
+
+- Show your steam games list
+- Right click on "Sid Meier's Civilization IV: Beyond the Sword", then properties.
+- Go in the "Betas" tab, then select "original_release_unsupported" in the dropdown menu.
+- The game will revert back to the old patch (you can select back "none" if you want to revert this move).
+
+_**Note**_ : You won't be able to play in the matchmaker online with this Steam patch but you'll still be able to play by direct IP with your friends or with players with the CD version (v3.19).
+
+<hr>
+# Offline installer
+
+If the target PC doesn't have internet, you can download an installer which is updated automatically after a new game update is released. It is currently depreciated by the online installer but yet still usable.
+<center><a href="http://forums.civfanatics.com/downloads.php?do=file&id=12838&act=down"><img src="{{ site.url }}/images/download_small_red.jpg" alt="Download now" width="50"  height="50" border="0" /><strong>DOWNLOAD OFFLINE INSTALLER NOW</strong></a></center>
+
+**Note**
+: To update the game offline, just download it again and overwrite. The offline installation mechanism is currently reworked to be easier to maintain. Please keep in touch if you're interested by offline installations. 
+
+**Note**
+: Without internet, you can still use the launcher to change texture sets or the formation graphical option. Just start and2_checker.exe in the mod folder.
+
+<hr>
+# Developper installation (SVN)
+
+We use SVN to ease the development. If you want to get involve, just follow these instructions:
+
+ <br>
+**Download the working copy**
+:
+
+- Download and install Tortoise SVN if you don't already have it ([Download page](http://tortoisesvn.net/downloads.html))
+- Prepare a folder to contain your copy of the AND project, it will be known as your 'Working Copy.' This Working Copy will be the local directory on your machine but also it will be your 'image' of the central repository. Developers and contributors can make changes to the game through their folder and upload/contribute them. This folder essentially is like the hub that connects the changes you make (if your a developer) with the changes others make, and it all syncs together.
+- Checkout from the repository to the folder you created in (2). This will get the current revision and make a permanent connection between your working folder and the repository. Assuming you have installed SVN as in (1), you can do this by right-clicking the directory in Windows Explorer and selecting 'Tortoise SVN/Checkout...'
+
+When it asks you for the repository URL enter:
+
+`svn://svn.code.sf.net/p/anewdawn/code/Trunk`
+
+- To download future refreshes or uploads (aka Commits) from the AND2 development team you won't have to REdownload it all again, you simply right click on the 'working copy' and select 'svn update'. This will then proceed to only download the 'changed' or updated files and add any new ones in, so it will be much, much faster.
+- After it's all copied you are up and running!
+
+**Export the copy**
+:
+
+Now how to get the working copy into play?:
+
+- Create an empty folder somewhere then..
+- Right click (hold) and drag the folder of your 'working copy' to this newly created folder and when you let go of the right mouse button you can..
+- Select the 'export versioned items here' option.
+- Once its finished exporting your up to date mod into where you wanted it - move the result ( Rise of Mankind - A New Dawn ) folder into civ4/beyond the sword/mods 
