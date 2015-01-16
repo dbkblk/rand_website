@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "New features (since Beyond the Sword)"
+title: "New features (since 'Beyond the Sword')"
 date: 2015-01-15
 modified:
 excerpt: "List the features of the mod"
@@ -36,7 +36,7 @@ image:
  <br>
 **New buildings & wonders**
 : From the early apiary to the vertical farms, develop your cities and please your people with new buildings.
-Draw in the Lascaux caves, found the hanseatic league or create the olympic games, everything is possible in A New Dawn !
+Draw in the Lascaux caves, found the hanseatic league or create the olympic games, everything is possible in _A New Dawn_ !
   
 <br>
 **Totally rebalanced with the community feedback**
@@ -55,15 +55,15 @@ Draw in the Lascaux caves, found the hanseatic league or create the olympic game
 
 <br>
 **Minor civilizations**
-: The game can be started as minor civilizations. Everyone is at war and no diplomacy is possible until the discovering of the writing. Then, you can try to make peace with your evolved peers, but war can leave unfortunate traces.
+: The game can be started as minor civilizations. Everyone is at war and no diplomacy is possible until the discovery of the writing. Then, you can try to make peace with your evolved peers, but war can leave unfortunate traces.
 
 <br>
-**Barbarians evolve !**
+**Barbarians evolve!**
 : Barbarians cities can emerge to minor civilizations as the game evolve. A new leader will settle with a brand new army. Don't underestimate them, as they can get up to your technology level, and may be, later, the future dominant civilization. 
 
 <br>
 **Dynamic civ names**
-: (*Only works in English and French*) Following the civics chosen by their leaders, civilization can get new names. You might meet the "abyssinian great kingdom", the "english principality", the "arabian city-state of Mecca" or the "mayan rebels".
+: (*Only works in English and French*) Following the civics chosen by their leaders, civilizations can get new names. You might meet the "abyssinian great kingdom", the "english principality", the "arabian city-state of Mecca" or the "mayan rebels".
 
 <br>
 **Absorb your vassals**
@@ -74,7 +74,7 @@ Draw in the Lascaux caves, found the hanseatic league or create the olympic game
 <center><img src="{{ site.url }}/images/feat_diplomacy.jpg"></center>
 <center>Qin Shi Huang doesn't seems to want an agreement today</center>
 **Diplomacy pushed to the limit**
-: New depth and realism makes the diplomacy more dangerous and important than ever. The AI is fully aware of all the new diplomacy options, and will trade for them, or in return for them.
+: New depth and realism makes the diplomacy more dangerous and important than ever. The AI is fully aware of all the new diplomatic options, and will trade for them, or in return for them.
 
 <br>
 **Set an embassy**
@@ -85,7 +85,7 @@ Draw in the Lascaux caves, found the hanseatic league or create the olympic game
 : Rights of passage are a limited form of open borders. They only allow non-combatants and trade through the borders.
 
 <br>
-**Use contact as a merchandise**
+**Use contacts as a merchandise**
 : Players can sell contacts with other civilizations, if they have not met the third party.
 
 <br>
@@ -109,7 +109,7 @@ Draw in the Lascaux caves, found the hanseatic league or create the olympic game
 <center><img src="{{ site.url }}/images/feat_newai.jpg"></center>
 <center>A rude AI war between aztecs and incas</center>
 **Smarter AI**
-: A lot of work has been put on artificial intelligence by the Civilization 4 community. Thanks to this, the AI benefits from bugfixes, enhanced ability to perform coordinated actions, to take economic decisions and will play better to the victory !
+: A lot of work has been put on artificial intelligence by the _Civilization IV_ community. Thanks to this, the AI benefits from bugfixes, enhanced ability to perform coordinated actions, to take economic decisions and will play better for the victory !
 
 <br>
 **New AI memory**
@@ -152,11 +152,11 @@ Do you feel battles are a little too quiet ? Activate the formation setting to r
 <center><img src="{{ site.url }}/images/feat_custgui.jpg"></center>
 <center>The domestic advisor resume invaluables cities informations</center>
 **Redefined interface**
-: The fully customizable interface is the accomplishment of the community BUG project, which sets the Civilization IV interface to a new level. In doing so, the expansion is set to show precious informations about your rivals (power, religion, resentment...), right besides the score. Advisors are now really detailled.
+: The fully customizable interface is the accomplishment of the community _BUG_ project, which sets the _Civilization IV_ interface to a new level. In doing so, the expansion is set to show precious informations about your rivals (power, religion, resentment...), right besides the score. Advisors are now really helpful.
 
 <br>
 **Not enough ?**
-: BUG adds tons of customization so you can add any information you want to the advisor' screens.
+: _BUG_ adds tons of customization so you can add any information you want to the advisors' screens.
 
 <hr>
 # Translated in several languages
@@ -180,22 +180,22 @@ Thanks to the usage of a platform it is easy to contribute to translate the game
 - **New speeds**: If you find a specific era too fast to enjoy it, you might love the new snail speed. If you want a quick-game, then try the new blitz speed !
 - **New map scripts**: Several new map scripts have been added, from the inland sea of mediterranea to the smartmap generator. Every map will be different !
 - **Multiple production & research**: In case of excedent of production or research, the overflow will be used for the next production or research during the same turn.
-- **Realistic culture spread**: Culture spreads based on the terrain, faster on clearlands and slower over peaks and dense vegetation, with more intermediate cultural levels.
+- **Realistic culture spread**: Culture spreads based on the terrain, faster on clearlands and slower over peaks, deserts and dense vegetation, with more intermediate cultural levels.
 - **Technology diffusion**: Discovered technologies are slowly diffused through borders and commercial routes as soon as more and more civilizations have discovered it.
 - **Great commanders**: Great generals can transform into great commanders to give your nearby army some bonuses on the field.
 - **Barbarian generals**: The strongests barbarian hordes will get great generals trying to terrify theirs neighbours.
 - **Dynamic experience gain**: Units now gain experience relatively to the difficulty of the unit they've fought, making battles more interesting.
 - **Advanced cargo mod**: Modern ships can now carry guided missiles and rockets while modern carriers can carry all the aircrafts except heavy bombers.
 - **Defender retreat**: Defending units with a withdraw chance can eventually retreat backward towards a safe tile.
-- **Fixed borders**: Use forts to generate culture and claim frontier lands or protect your lands with theirs zone of control to force the enemy to siege.
+- **Fixed borders**: Use forts to generate culture and claim frontier lands or protect your lands with theirs zones of control to force the enemy to siege.
 - **Assimilation**: When a city is captured, it retains the personality of the former owner, so his unique unit and building in that city can be build instead of conquerant's own.
-- **Usable mountains**: The discover of "mountaineering" allows to cross mountains, so it can allow crucial strategic moves for early discoverers.
+- **Usable mountains**: The discover of _mountaineering_ allows to cross mountains, so it can allow critical strategic moves for early discoverers.
 - **Medieval guilds**: Guilds are a medieval variant of corporations which can be spread all over the world. They add maintenance fees that go on pair with the new guild civic.
 - **Modern corporations**: Modern corporations expand the amount of corporations in the late game, giving new opportinuties to economically overpass your peers.
 - **Caravans**: Use the caravans to transfer merchandizes from growing cities to small cities to help them to grow or make ponctual commerce with your neighbours.
 - **Resource depletion**: As in real world, resources aren't eternal. Mineral resources can run dry over exploitation, but probability to discover new ones is increased.
 - **United Nations**: It is possible to play with the United Nations without the need to activate the diplomatic victory option.
-- **Fine-tuned automations**: Many new automations like 'automated patrol' or 'protect borders' avoid to having the need to micro-manage your empire.
+- **Fine-tuned automations**: Many new automations like _automated patrol_ or _protect borders_ avoid to having the need to micro-manage your empire.
 - **Mastery victory**: Mastery victory is the ultimate victory condition. Players must survive to the end of time and spread their culture, religion and power over the world.
 - **AIAutoPlay**: Ever wanted to let the AI play your empire ? Or wanted to start with a settled empire ? Let the AI play for some turns, then take the control back.
 - **Units per tiles**: Tiles can be set to host a limited number of units. It creates a whole new strategic dimension to the game. *Unfortunately, this option is unstable under 20units/tile.*
@@ -203,11 +203,11 @@ Thanks to the usage of a platform it is easy to contribute to translate the game
 <hr>
 # Technical features
 <center><img src="{{ site.url }}/images/feat_technical.jpg"></center>
-<center>Civilization IV is powered by C++, Python and XML.</center>
+<center><i>Civilization IV</i> is powered by C++, Python and XML.</center>
 **Savegame compatibility**
-: Created by the C2C mod team, a reliable algorithm ensure savegame compatibility after updates. Your savegame will be forever compatible with past and future releases.
+: Created by the _C2C mod team_, a reliable algorithm ensure savegame compatibility after updates. Your savegame will be forever compatible with past and future releases.
 
 <br>
 **Increased game performance**
-: Created by the C2C mod team, the graphics paging option allow to virtually remove all MAF errors seen in Beyond the Sword and other heavy mods, and dramatically increase graphical performance on latter games.
+: Created by the _C2C mod team_, the graphics paging option allow to virtually remove all MAF errors seen in Beyond the Sword and other heavy mods, and dramatically increase graphical performance on latter games.
 
