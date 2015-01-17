@@ -29,7 +29,7 @@ The are three ways to install this expansion pack, but all roads lead to Rome !
 
 If you have an internet connexion, the easiest method is to download our online installer:
 
-<center><a href="http://sourceforge.net/projects/anewdawn/files/latest/download?source=files"><img src="{{ site.url }}/images/download_small_green.jpg" alt="Download now" width="50"  height="50" border="0" /><strong>DOWNLOAD ONLINE INSTALLER NOW</strong></a></center>
+<center><a href="http://sourceforge.net/projects/anewdawn/files/latest/download?source=files"><img src="{{ site.url }}/images/download_small_green.jpg" width="50"  height="50" border="0" /><strong>DOWNLOAD ONLINE INSTALLER NOW</strong></a></center>
   <br>
 
 
@@ -62,7 +62,7 @@ _**Note**_ : You won't be able to play in the matchmaker online with this Steam 
 # Offline installer
 
 If the target PC doesn't have internet, you can download an installer which is updated automatically after a new game update is released. It is currently depreciated by the online installer but yet still usable.
-<center><a href="http://forums.civfanatics.com/downloads.php?do=file&id=12838&act=down"><img src="{{ site.url }}/images/download_small_red.jpg" alt="Download now" width="50"  height="50" border="0" /><strong>DOWNLOAD OFFLINE INSTALLER NOW</strong></a></center>
+<center><a href="http://forums.civfanatics.com/downloads.php?do=file&id=12838&act=down"><img src="{{ site.url }}/images/download_small_red.jpg" width="50"  height="50" border="0" /><strong>DOWNLOAD OFFLINE INSTALLER NOW</strong></a></center>
 
 **Note**
 : To update the game offline, just download it again and overwrite. The offline installation mechanism is currently reworked to be easier to maintain. Please keep in touch if you're interested by offline installations. 
@@ -71,7 +71,7 @@ If the target PC doesn't have internet, you can download an installer which is u
 : Without internet, you can still use the launcher to change texture sets or the formation graphical option. Just start and2_checker.exe in the mod folder.
 
 <hr>
-# Developper installation (SVN)
+# Developper installation (SVN)[english]
 
 We use SVN to ease the development. If you want to get involve, just follow these instructions:
 
