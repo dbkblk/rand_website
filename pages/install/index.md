@@ -20,34 +20,33 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-_**This expansion is in continuous development, so expect updates every month.**_
-<hr>
-The are three ways to install this expansion pack, but all roads lead to Rome !
+_**This expansion pack is in continuous development, so expect updates every month.**_
 
 <hr>
-# Online installer
+# Standard installation
 
-If you have an internet connexion, the easiest method is to download our online installer:
-
-<center><a href="http://sourceforge.net/projects/anewdawn/files/latest/download?source=files"><img src="{{ site.url }}/images/download_small_green.jpg" width="50"  height="50" border="0" /><strong>DOWNLOAD ONLINE INSTALLER NOW</strong></a></center>
+<center><a href="http://sourceforge.net/projects/anewdawn/files/latest/download?source=files"><img src="{{ site.url }}/images/download_small_green.jpg" width="50"  height="50" border="0" /><strong>DOWNLOAD INSTALLER NOW</strong></a></center>
   <br>
 
-
-**Instructions**
-:
+**Installation instructions**
+: 
 
 - Make sure you have Civilization IV - Beyond the Sword installed and patched to 3.19 or have the steam version (automatically patched).
-- Download the installer
-- Execute it
-- Select the installation language (you can change it later)
-- Select the installation folder (default is recommended)
+- Download the installer.
+- Execute it.
+- Select the installation language (you can change it later).
+- Select the installation folder (default is recommended).
 - If you are absolutely sure than you already have MSVC2010, you can untick the box, but otherwise, let it ticked.
-- The launcher is installed then start to download the required files and create shortcuts on the desktop and in the start menu.
-- Once finished, the launcher is restarted and you can enjoy the expansion !
+- The installer creates shortcuts on the desktop and in the start menu by default.
+- Once finished, the launcher is started and you can enjoy the expansion !
 
-The launcher can be use to select textures sets, graphical formations option and update the game easily.  
+The launcher can be use to select textures sets, graphical formations option and update the game easily. [_Please refer to the FAQ for further configuration questions._]({{ site.url }}/pages/faq/)
  <br>
+**How to update the game ?**
+: When an update is released, the launcher will highlight a yellow "update" button. All you have to do is to click on it, check what have changed and press "update", then wait.
+If you don't have internet on that PC, either redownload the updated installer or stay tuned as a small offline updating tool should appear on that website in the next weeks !
 
+ <br>
 **Special note for Steam users**
 : A while ago, the online internet service Gamespy has shut down, and Firaxis have released a patch to be able to continue to play online using Steam. While this is a wonderful news, they also introduced a bug which prevents the religion icon to be displayed into the score (at the right bottom of the ingame screen). Yet, they allow to use the old patch.
 
@@ -57,18 +56,6 @@ The launcher can be use to select textures sets, graphical formations option and
 - The game will revert back to the old patch (you can select back "none" if you want to revert this move).
 
 _**Note**_ : You won't be able to play in the matchmaker online with this Steam patch but you'll still be able to play by direct IP with your friends or with players with the CD version (v3.19).
-
-<hr>
-# Offline installer
-
-If the target PC doesn't have internet, you can download an installer which is updated automatically after a new game update is released. It is currently depreciated by the online installer but yet still usable.
-<center><a href="http://forums.civfanatics.com/downloads.php?do=file&id=12838&act=down"><img src="{{ site.url }}/images/download_small_red.jpg" width="50"  height="50" border="0" /><strong>DOWNLOAD OFFLINE INSTALLER NOW</strong></a></center>
-
-**Note**
-: To update the game offline, just download it again and overwrite. The offline installation mechanism is currently reworked to be easier to maintain. Please keep in touch if you're interested by offline installations. 
-
-**Note**
-: Without internet, you can still use the launcher to change texture sets or the formation graphical option. Just start and2_checker.exe in the mod folder.
 
 <hr>
 # Developper installation (SVN)[english]
