@@ -38,7 +38,7 @@ _**This expansion pack is in continuous development, so expect updates every mon
 - Select the installation folder (default is recommended).
 - If you are absolutely sure than you already have MSVC2010, you can untick the box, but otherwise, let it ticked.
 - The installer creates shortcuts on the desktop and in the start menu by default.
-- Once finished, the launcher is started and you can enjoy the expansion !
+- Once finished, the launcher will start and you can enjoy the expansion !
 
 The launcher can be use to select textures sets, graphical formations option and update the game easily. [_Please refer to the FAQ for further configuration questions._]({{ site.url }}/pages/faq/)
  <br>
