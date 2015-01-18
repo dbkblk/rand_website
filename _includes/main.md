@@ -2,7 +2,8 @@
 
 _Rise of Mankind: A New Dawn_ is a new sequel of the great _Civilization IV: Beyond the Sword_ game. _A New Dawn_ serves as a new expansion, adding a huge and balanced new technology tree, putting emphasis on new buildings, new units and new technologies.<br>
 <br>
-Based on the incredibely popular former _Rise of Mankind_ mod, developped by _Zappara_, this extension puts _Civilization IV_ even further. It contains a powerful new AI, charismatic new leaders, revolts and revolutions of the people, adaptative difficulty, advanced diplomacy, automatised defense tasks, and so much other enhancements... In short, that is nearly a whole new game.<br>
+Based on the incredibly popular former _Rise of Mankind_ mod, _A New Dawn_ transforms _Civilization IV_, transcending to new heights and giving the players the best _Civilization_ experience of all time.
+It contains a powerful and vastly superior new AI, charismatic new leaders and a new revolt and revolutions system. The huge amounts of new content also include an advanced and reworked diplomacy system, a myriad of new automation options, an adaptive difficulty, and many other enhancements… In short, this is THE _Civilization_ game of the future. Its the work of hundreds' talented individuals - over many years. The result truly does feel like _A New Dawn_!<br>
 <br>
 Last, but not least, it is built to be as flexible as possible, so you can choose whatever new option you like, and uncheck those you like a little less (if any...).<br>
 <br>
