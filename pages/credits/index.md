@@ -18,7 +18,7 @@ image:
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
-
+<hr>
 # History
 
 Back in 2007, _Zappara_, a wizard of _Civilization IV_ modding, has begun to work on a new mod, named _Rise of Mankind_. Quickly incredibely popular, it attempts to simulate history, but was not intended to be a perfect historical simulator, like _Rhye's and Fall of Civilization_; it follows mostly historical lines, but allows for those "What-If" scenarios to occur.
@@ -65,6 +65,7 @@ In 2015, 8 years later, the expansion is now still developped, expanded, polishe
 - **A special thanks to C2C Development Team for coding support**
 - **Arkatakor**: Coding support;
 - **Platyping**: Coding support;
+- **Nightinggale**: Coding support, language support;
 
 ## Community developpers
 
@@ -79,7 +80,8 @@ In 2015, 8 years later, the expansion is now still developped, expanded, polishe
 - **KillmePlease**: Occasional Promotions, Great Commanders, Retreat.
 - **Jean Eclard**: Culturally Linked Starts.
 - **Kael**: Flexible Difficulty, Assimilation, Increasing Difficulty, Challenge Game Options.
-- **Vincentz**: Trade Improvements, Guilds, Corporations"
+- **Vincentz**: Trade Improvements, Guilds, Corporations, Artwork"
+- **Sparth**: Artwork
 - **GeneralStaff**: Civic Buildings, Early Buildings.
 - **Jooyo**: Larger Cities, Sea Tunnels, Brown Interface.
 - **The HoTK Team**: The CAR Mod.
