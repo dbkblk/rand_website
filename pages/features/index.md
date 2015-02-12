@@ -32,8 +32,8 @@ This page lists all the features added since the last extension, _Beyond the Swo
 : The technology tree has been heavily reworked to be well balanced between usefulness, historical accuracy, research costs, buildings, civics and units delivered. The optional realistic timescale algorithm ensures that great discoveries are more or less in line with their real historical dates. Countless new technologies have been added.
 
  <br> 
-**New units**
-: Hunt lions with the new early slinger, control the oceans with the attack submarine, charge your foes with the mounted cavalry, or launch an intercontinental missile. Every unit is designed to be useful, not superfluous.
+**New and redesigned units**
+: Hunt lions with the new early slinger, control the oceans with the attack submarine, charge your foes with the mounted cavalry, or launch a hydrogen bomb. Every unit is designed to be useful, not superfluous.
 
  <br>
 **New buildings & wonders**
@@ -167,10 +167,11 @@ Do you feel battles are a little too quiet? Activate the formation setting to re
 The game currently supports many languages, although not all are fully translated:
 
 - **Complete or nearly complete translations**: ![en]({{site.url}}/images/flag_en.png) English, ![fr]({{site.url}}/images/flag_fr.png) French & ![pl]({{site.url}}/images/flag_pl.png) Polish.
-- **Partial translations**: ![fi]({{site.url}}/images/flag_fi.png) Finnish, ![de]({{site.url}}/images/flag_de.png) German, ![hu]({{site.url}}/images/flag_hu.png) Hungarian, ![it]({{site.url}}/images/flag_it.png) Italian & ![es]({{site.url}}/images/flag_es.png) Spanish.
-- **Currently in-progress**: ![ru]({{site.url}}/images/flag_ru.png) Russian.
+- **Partial translations**: ![fi]({{site.url}}/images/flag_fi.png) Finnish, ![de]({{site.url}}/images/flag_de.png) German, ![hu]({{site.url}}/images/flag_hu.png) Hungarian, ![it]({{site.url}}/images/flag_it.png) Italian, ![ru]({{site.url}}/images/flag_ru.png) Russian & ![es]({{site.url}}/images/flag_es.png) Spanish.
 
-Thanks to a special translation platform it is now easy to contribute to the game by translating text into your native language: [Read instructions on the forum](http://forums.civfanatics.com/showthread.php?t=526671)
+The game has been reworked to support a lot of new languages: _Afrikaans_, _Albanian_, _Arabic_, _Basque_, _Belarusian_, _Bosnian_, _Bulgarian_, _Catalan_, _Croatian_, _Czech_, _Danish_, _Dutch_, _Estonian_, _Farsi_, _Filipino_, _Gaelic_, _Gallego_, _Greek_, _Hebrew_, _Icelandic_, _Indonesian_, _Lao_, _Lithuanian_, _Latvian_, _Malaysian_, _Maori (Ngai Tahu)_, _Maori (Waikoto Uni)_, _Norwegian_, _Nynorsk_, _Portuguese_, _Portuguese (Brazil)_, _Romanian_, _Samoan_, _Serbian_, _Slovak_, _Slovenian_, _Swedish_, _Thai_, _Tongan_, _Turkish_, _Ukrainian_ and _Vietnamese_.
+
+Thanks to a special translation platform it is now easy to contribute to the game by translating text into your native language: [Read instructions on the forum](http://forums.civfanatics.com/showthread.php?t=526671). We need YOU to translate into these languages.
 
 <hr>
 # Many other enhancements and options

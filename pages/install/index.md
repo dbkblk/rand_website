@@ -42,9 +42,13 @@ _**This expansion pack is in continuous development, so expect updates every mon
 
 The launcher can be use to select textures sets, graphical formations option and update the game easily. [_Please refer to the FAQ for further configuration questions._]({{ site.url }}/pages/faq/)
  <br>
-**How to update the game ?**
+**How to update the game?**
 : When an update is released, the launcher will highlight a yellow "update" button. All you have to do is to click on it, check what have changed and press "update", then wait.
 If you don't have internet on that PC, either redownload the updated installer or stay tuned as a small offline updating tool should appear on that website in the next weeks !
+
+<br>
+**Can I download an older version of the game?**
+: We keep a track of old versions [_on our server_](http://sourceforge.net/projects/anewdawn/files/). Please note that <u>these versions are totally unsupported</u>.
 
  <br>
 **Special note for Steam users**
