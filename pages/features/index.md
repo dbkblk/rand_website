@@ -177,6 +177,7 @@ Thanks to a special translation platform it is now easy to contribute to the gam
 # Many other enhancements and options
 <center><img src="{{ site.url }}/images/feat_leaders.jpg"></center>
 <center>Will you meet Hirohito or Charles V?</center>
+- **Units per tile**: Tired of the dreaded ‘stack of doom’ from Civ IV ? Based on the acclaimed feature of Civ V, it is now possible to enjoy a fully working units-per-tile limitation. You can play down to 1 unit-per-tile, but beware of the massive warfare.
 - **New leaders**: No fewer than twenty-six new leaders are part of this expansion including _Cleopatra_, _Charles V_, _Hirohito_, _Henry VIII_, _Nebuchadrezzar_, _Lenin_ and many more.
 - **New events**: Sir, our herbalists have discovered a new plant that holds great promise for health treatments. However, tests on human subjects are required to find the right mixture. Should we try it?
 - **New speeds**: If games tend to go by too fast for your liking, you might love the new snail speed. If you want a quick game, then try blitz.
@@ -184,6 +185,7 @@ Thanks to a special translation platform it is now easy to contribute to the gam
 - **Multiple production & research**: When research or city production has been completed, any surplus lightbulbs/hammers are used on the next queued technology or item.
 - **Realistic culture spread**: Culture spreads based on the terrain, faster on clear lands and slower over peaks, deserts and dense vegetation.
 - **Technology diffusion**: Knowledge of discovered technology is gradually diffused through borders and commercial routes to those without the understanding. The more civilizations that have discovered the technology, the faster the flow.
+- **Hunt for food and glory**: During the ancient era, try to hunt as many animals as possible and gather them in your empire to generate new resources and to delight your population with new myths and legends that will aid the development of your civilization.
 - **Great commanders**: Great generals can transform into great commanders to give your nearby army some bonuses in the field.
 - **Barbarian generals**: The strongest barbarian hordes will get great generals to terrify their neighbours.
 - **Dynamic experience gain**: Units now gain experience relative to the difficulty of the battle they’ve fought, making combat more interesting.
@@ -200,7 +202,6 @@ Thanks to a special translation platform it is now easy to contribute to the gam
 - **Fine-tuned automations**: Many new automations such as _automated patrol_ and _protect borders_ reduce the need to micro-manage your empire.
 - **Mastery victory**: Mastery victory is the ultimate victory condition. Players must survive to the end of time and spread their culture, religion and power over the world.
 - **AIAutoPlay**: Ever wanted to let the AI play your empire? Or wanted to start with a settled empire? Let the AI play on your behalf for a while and then take back control.
-- **Units per tile**: This option sets the maximum number of units allowed on a tile, creating a whole new strategic dimension to the game and helping to limit the dreaded 'stack of doom'. _For stability reasons, the minimum units per tile number is set to 15._
 
 <hr>
 # Technical features
