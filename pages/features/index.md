@@ -167,7 +167,8 @@ Do you feel battles are a little too quiet? Activate the formation setting to re
 The game currently supports many languages, although not all are fully translated:
 
 - **Complete or nearly complete translations**: ![en]({{site.url}}/images/flag_en.png) English, ![fr]({{site.url}}/images/flag_fr.png) French & ![pl]({{site.url}}/images/flag_pl.png) Polish.
-- **Partial translations**: ![fi]({{site.url}}/images/flag_fi.png) Finnish, ![de]({{site.url}}/images/flag_de.png) German, ![hu]({{site.url}}/images/flag_hu.png) Hungarian, ![it]({{site.url}}/images/flag_it.png) Italian, ![ru]({{site.url}}/images/flag_ru.png) Russian & ![es]({{site.url}}/images/flag_es.png) Spanish.
+- **Partial translations (more than 50%)**: ![zh]({{site.url}}/images/flag_zh.png) Chinese, ![fi]({{site.url}}/images/flag_fi.png) Finnish, ![de]({{site.url}}/images/flag_de.png) German, ![hu]({{site.url}}/images/flag_hu.png) Hungarian, ![it]({{site.url}}/images/flag_it.png) Italian, ![ja]({{site.url}}/images/flag_ja.png) Japanese, ![ko]({{site.url}}/images/flag_ko.png) Korean, ![ru]({{site.url}}/images/flag_ru.png) Russian & ![es]({{site.url}}/images/flag_es.png) Spanish.
+- **Partial translations (less than 50%)**: ![cs]({{site.url}}/images/flag_cs.png) Czech & ![pt]({{site.url}}/images/flag_pt.png) Portuguese.
 
 The game has been reworked to support a lot of new languages: _Afrikaans_, _Albanian_, _Arabic_, _Basque_, _Belarusian_, _Bosnian_, _Bulgarian_, _Catalan_, _Croatian_, _Czech_, _Danish_, _Dutch_, _Estonian_, _Farsi_, _Filipino_, _Gaelic_, _Gallego_, _Greek_, _Hebrew_, _Icelandic_, _Indonesian_, _Lao_, _Lithuanian_, _Latvian_, _Malaysian_, _Maori (Ngai Tahu)_, _Maori (Waikoto Uni)_, _Norwegian_, _Nynorsk_, _Portuguese_, _Portuguese (Brazil)_, _Romanian_, _Samoan_, _Serbian_, _Slovak_, _Slovenian_, _Swedish_, _Thai_, _Tongan_, _Turkish_, _Ukrainian_ and _Vietnamese_.
 
@@ -179,6 +180,7 @@ Thanks to a special translation platform it is now easy to contribute to the gam
 <center>Will you meet Hirohito or Charles V?</center>
 - **Units per tile**: Tired of the dreaded ‘stack of doom’ from Civ IV ? Based on the acclaimed feature of Civ V, it is now possible to enjoy a fully working units-per-tile limitation. You can play down to 1 unit-per-tile, but beware of the massive warfare.
 - **New leaders**: No fewer than twenty-six new leaders are part of this expansion including _Cleopatra_, _Charles V_, _Hirohito_, _Henry VIII_, _Nebuchadrezzar_, _Lenin_ and many more.
+- **New civilizations**: More than 100 new civilizations are available with the installation of an additional module. [Check this page if you are interested.](https://github.com/dbkblk/civ4_and2_civmegapack)
 - **New events**: Sir, our herbalists have discovered a new plant that holds great promise for health treatments. However, tests on human subjects are required to find the right mixture. Should we try it?
 - **New speeds**: If games tend to go by too fast for your liking, you might love the new snail speed. If you want a quick game, then try blitz.
 - **New map scripts**: Several new map scripts have been added, from the inland sea of Mediterranean to the Smartmap Generator. Every map will be different!

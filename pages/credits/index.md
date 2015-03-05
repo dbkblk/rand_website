@@ -41,7 +41,7 @@ In 2015, 8 years later, the expansion is now still developped, expanded, polishe
 - **Afforess**: Creator of _A New Dawn_, still keeps an eye on the project; DLL coding, python, XML, balancing.
 - **Vokarya**: Focus on balancing buildings, tech. tree, units and wonders; XML, Python.
 - **JosEPh_II**: Help to bugfix; XML and support.
-- **dbkblk**: Support developper and community management; translation platform & new languages support, french translation, launcher.
+- **dbkblk**: DLL coding, launcher, community management, translation platform & new languages support.
 - _**Beta testers**_: Rezca, Sogroon, Oldnoob, Noyyau and others that discuss or report bugs on the forum.
 
 ## Former modding team
@@ -51,13 +51,21 @@ In 2015, 8 years later, the expansion is now still developped, expanded, polishe
 
 ## Translators
 
-- **Finnish**: Base game patch from the finnish community of http://kahkonen.arkku.net/civ4.php - *Mika M. Kähkönen*, *Ville Rautapää*, *Miikka Ryökäs (Kizor)*, *Erkka Koski*, *Tatu Lajunen (Flamer)*, *Joonas*, *Jouni Tolvanen (Rheinmetall)*, *Tapani Kauppinen*, *Juho Määttä*, *Aleksi Roinila (Exel)*, *Juha Salminen*, *Jouko Salminen*, *Taneli Tolonen (Laahustaja)*, *Miikka Sohlman (Hipsu)*, *Jarkko Lehtola*
-- **French**: *dbkblk*, *faskiltarace*, *Falc*, *calvitix*
-- **German**: *The Doc*, *Snofru1*, *Heini*, *Therkaz*
-- **Hungarian**: Base game patch from the hungarian community of http://civilizacio.zump.co.cc - *kabcsi*, *sus*, *vs*
-- **Italian**: *Cammagno*
-- **Polish**: *lordfistas*, *attyla* and the polish community of http://civ.org.pl
-- **Russian**: *KuzMad*, *Artemiy*, and the russian community of http://civfanatics.ru - *Alexander "akasoft" Kozlov*, *Alexander "GooRoo" Naumov*, *Alexander "Sapiens" Maltsev*, *Alexey " General" Izvalov*, *Andrey "Anger" Markevich*, *Andrey "KoS" Kostyushko*, *Andrey "sweeper" Sartakov*, *Anna Kostyushko*, *BuDDaH*, *DelSt*, *Dmitry "Himik" Filimonov*, *EmtecX*, *JCricket*, *Koldun*, *Kypchak*, *Marten*, *Maxim "Watcher" Volkov*, *Michail " White Hawk" Egorov*, *mute*, *MuXa*, *Nikolay "vpadlo" Bondarenko*, *Oleg "Gost'" Joughin*, *Peter " Pet" Svikh*, *PSYX*, *Roman "Kot Begemot" Sovetskikh*, *S_Twist*, *Solver*, *Sure*, *Victor "Witan" Trufen*, *Vlad "swan" Lebedinsky*, *Vladimir "liar" Kiprinov*, *Vladimir "Vinnie" Marchenko*
+- **Chinese**: *out5477* and the base game patch from the Chinese community of Saiai Wei - Clubs Alliance of Civilizations; www.civclub.net. 原版Civ4翻译人员：Doris.Civ、freesand、HIDER、nameless、stalker、xyz、不知所谓、超级潜水员、弗莱姆、黑白天空、卡司、梦辙、铭心、小新、伊拉
+Warlords翻译人员：Flame、freesand、FOKKER、gz、hider、icebroad、LinXee、liuzhimou、stalker、starwish、zmaiwt、超级潜水员、繁华落尽、赫连勃勃、黑白天空、黑色雨衣、卡司、林黛玉的老师、齐东野人、三三清蒸鱼、始皇帝、苏菲小白、伊拉、月亮熊、捉云、紫月天涯
+BtS翻译人员：freesand、孟仲玄、shell、clover、水滴子、Lohengrin、yq19820430、eaglet123、danielzhuang、namelessone、scoutzxb、willzhang、HEAVENRAIN、WR_Z、苏菲小白、gzciv、玉米派、神秘男子A、Q6022、khenlee、每周虎、megodno、lpufred417、reallh、齐东野人、月亮熊、紫堇、
+- **Czech**: *fri* and *Osgiliat Bbc (Tedragon)*
+- **Danish**: *Kristian Gram (Gram123)* and *Anders Rundh (Ajes)*
+- **Finnish**: *Kai Metsävainio (metska)*, *Kai Huuhko (kuuko)* and the base game patch from the Finnish community of http://kahkonen.arkku.net/civ4.php - *Mika M. Kähkönen*, *Ville Rautapää*, *Miikka Ryökäs (Kizor)*, *Erkka Koski*, *Tatu Lajunen (Flamer)*, *Joonas*, *Jouni Tolvanen (Rheinmetall)*, *Tapani Kauppinen*, *Juho Määttä*, *Aleksi Roinila (Exel)*, *Juha Salminen*, *Jouko Salminen*, *Taneli Tolonen (Laahustaja)*, *Miikka Sohlman (Hipsu)*, *Jarkko Lehtola*
+- **French**: *Hadrien Dussuel (dbkblk)*, *faskiltarace*, *Falc*, *calvitix*
+- **German**: *The Doc*, *Snofru1*, *Heini*, *Therkaz*, *Ludwig Friedemann*
+- **Hungarian**: Base game patch from the Hungarian community of http://civilizacio.zump.co.cc - *kabcsi*, *sus*, *vs*
+- **Italian**: *Cammagno*, *Psyluke*
+- **Japanese**: Base game translation: Cyberfront; Rise of Mankind: Unknown (*if you are the author, please contact us to be added here*)
+- **Korean**: Base game translation: 翻译人员：freesand、孟仲玄、shell、clover、水滴子、Lohengrin、yq19820430、eaglet123、danielzhuang、namelessone、scoutzxb、willzhang、HEAVENRAIN、WR_Z、苏菲小白、gzciv、玉米派、神秘男子A、Q6022、khenlee、每周虎、megodno、lpufred417、reallh、齐东野人、月亮熊、紫堇、liuzhimou; Rise of Mankind: Unknown (*if you are the author, please contact us to be added here*)
+- **Polish**: *lordfistas*, *attyla*, *Karysu* and the Polish community of http://civ.org.pl
+- **Portuguese**: Base game translation from the Civ4BR project https://sourceforge.net/projects/civ4br/
+- **Russian**: *KuzMad*, *Artemiy*, and the Russian community of http://civfanatics.ru - *Alexander "akasoft" Kozlov*, *Alexander "GooRoo" Naumov*, *Alexander "Sapiens" Maltsev*, *Alexey " General" Izvalov*, *Andrey "Anger" Markevich*, *Andrey "KoS" Kostyushko*, *Andrey "sweeper" Sartakov*, *Anna Kostyushko*, *BuDDaH*, *DelSt*, *Dmitry "Himik" Filimonov*, *EmtecX*, *JCricket*, *Koldun*, *Kypchak*, *Marten*, *Maxim "Watcher" Volkov*, *Michail " White Hawk" Egorov*, *mute*, *MuXa*, *Nikolay "vpadlo" Bondarenko*, *Oleg "Gost'" Joughin*, *Peter " Pet" Svikh*, *PSYX*, *Roman "Kot Begemot" Sovetskikh*, *S_Twist*, *Solver*, *Sure*, *Victor "Witan" Trufen*, *Vlad "swan" Lebedinsky*, *Vladimir "liar" Kiprinov*, *Vladimir "Vinnie" Marchenko*
 - **Spanish**: *BdLyO*
 
 ## Precious advisors
@@ -65,7 +73,7 @@ In 2015, 8 years later, the expansion is now still developped, expanded, polishe
 - **A special thanks to C2C Development Team for coding support**
 - **Arkatakor**: Coding support;
 - **Platyping**: Coding support;
-- **Nightinggale**: Coding support, language support;
+- **Nightinggale**: Coding support, new languages support;
 
 ## Community developpers
 
