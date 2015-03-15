@@ -66,7 +66,7 @@ BtS翻译人员：freesand、孟仲玄、shell、clover、水滴子、Lohengrin�
 - **Danish**: *Anders Rundh* (Ajes), *Kristian Gram* (Gram123) and *Patrick Larsen* (Hatsen)
 - **Finnish**: *Kai Huuhko* (kuuko), *Kai Metsävainio* (metska) and the base game patch from the Finnish community of http://kahkonen.arkku.net/civ4.php - *Mika M. Kähkönen*, *Ville Rautapää*, *Miikka Ryökäs* (Kizor), *Erkka Koski*, *Tatu Lajunen* (Flamer), *Joonas*, *Jouni Tolvanen* (Rheinmetall), *Tapani Kauppinen*, *Juho Määttä*, *Aleksi Roinila* (Exel), *Juha Salminen*, *Jouko Salminen*, *Taneli Tolonen* (Laahustaja), *Miikka Sohlman* (Hipsu), *Jarkko Lehtola*
 - **French**: calvitix, Falc, faskiltarace and *Hadrien Dussuel* (dbkblk)
-- **German**: camellion, Heini, jonnius, *Leonard König* (LeonardK), *Ludwig Friedemann*, *Marcel Haring* (emukis), *Marco tom Suden* (Jaison), *Markus Oesterle* (themanwhosold), *Matthias Meger*, *Raymond Vetter* (raymond_de), Snofru1, The Doc, Therkaz and YSelfTool
+- **German**: Heini, jonnius, *Leonard König* (LeonardK), *Ludwig Friedemann*, *Marcel Haring* (emukis), *Marco tom Suden* (Jaison), *Markus Oesterle* (themanwhosold), *Matthias Meger*, *Maximilian Fendesak* (Camellion), *Raymond Vetter* (raymond_de), Snofru1, The Doc, Therkaz and YSelfTool
 - **Greek**: *Alexandros Manos* (Alainto), *Dimitrios Kekakos* (Kekakos),, *Dionissios Antiochos* (nionios), *Loukas Skouroliakos* (ouzomezes) and *Theo Ratzos* (koteo), 
 - **Hungarian**: Base game patch from the Hungarian community of http://civilizacio.zump.co.cc - *kabcsi*, *sus*, *vs*
 - **Italian**: Cammagno, *Corrado Sinigoi* (45°) and Psyluke
