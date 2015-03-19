@@ -10,4 +10,8 @@ In short, this is THE _Civilization_ game of the future. It's the work of hundre
 Last, but not least, it is built to be as flexible as possible, so you can choose whatever new option you like, and uncheck those you like a little less (if any...).<br>
 <br>
 **You always play the game you like.**<br>
+<hr>
 <center><a href="{{ site.url }}/pages/features/">- <strong>Discover all the features it provides</strong> -</center>
+<hr><br>
+<a href="http://www.moddb.com/mods/rise-of-mankind-a-new-dawn" title="View Rise of Mankind: A New Dawn on Mod DB" target="_blank"><img src="http://button.moddb.com/popularity/medium/mods/14429.png" alt="Rise of Mankind: A New Dawn" /></a>
+<a href="http://www.moddb.com/mods/rise-of-mankind-a-new-dawn" title="View Rise of Mankind: A New Dawn on Mod DB" target="_blank"><img src="http://button.moddb.com/rating/medium/mods/14429.png" alt="Rise of Mankind: A New Dawn" /></a>
