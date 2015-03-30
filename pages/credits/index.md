@@ -57,29 +57,34 @@ In 2015, 8 years later, the expansion is now still developped, expanded, polishe
 
 ## Translators
 
-- **Arabic**: *Houssem Mhamdi*
-- **Brazilian**: *Gabriel Guaitolini* (fuyangli), *Henrique Terto de Souza* (terto), Hyperionwolf, *João Filho* (Phylhom), *Thiago Perrotta* (thiagowfx) and the base game translation from the Civ4BR project https://sourceforge.net/projects/civ4br/
-- **Chinese**: out5477 and the base game patch from the Chinese community of Saiai Wei - Clubs Alliance of Civilizations; www.civclub.net. 原版Civ4翻译人员：Doris.Civ、freesand、HIDER、nameless、stalker、xyz、不知所谓、超级潜水员、弗莱姆、黑白天空、卡司、梦辙、铭心、小新、伊拉
+- **Arabic**: ArchLord, *Houssem Mhamdi*, *Islam Ouahouda* (islamfes), *Majed Alotaibi* (MajKSA), *Mina Hanna* (MinaBHanna) and SamerASSIL
+- **Brazilian**: *Felype Escardine* (Scootaloo), *Gabriel Guaitolini* (fuyangli), *Henrique Terto de Souza* (terto), Hyperionwolf, *João Filho* (Phylhom), *Louise Freire de Azevedo* (LuliiAzevedo), *Rayssa Amorim* (raeamorim), *Rodrigo Borges de Oliveira* (Narghazar), *Thiago Perrotta* (thiagowfx) and the base game translation from the Civ4BR project https://sourceforge.net/projects/civ4br/
+- **Bulgarian**: *Djuliano Simeonov* (djulioo), *Yavor Minchev* (Tolni)
+- **Catalan**: Ecron, josep.a.95 and the base game patch from Gangleri2001 at http://forums.civfanatics.com/showthread.php?t=287862
+- **Chinese (simplified)**: freesand, out5477 and the base game patch from the Chinese community of Saiai Wei - Clubs Alliance of Civilizations; www.civclub.net. 原版Civ4翻译人员：Doris.Civ、freesand、HIDER、nameless、stalker、xyz、不知所谓、超级潜水员、弗莱姆、黑白天空、卡司、梦辙、铭心、小新、伊拉
 Warlords翻译人员：Flame、freesand、FOKKER、gz、hider、icebroad、LinXee、liuzhimou、stalker、starwish、zmaiwt、超级潜水员、繁华落尽、赫连勃勃、黑白天空、黑色雨衣、卡司、林黛玉的老师、齐东野人、三三清蒸鱼、始皇帝、苏菲小白、伊拉、月亮熊、捉云、紫月天涯
 BtS翻译人员：freesand、孟仲玄、shell、clover、水滴子、Lohengrin、yq19820430、eaglet123、danielzhuang、namelessone、scoutzxb、willzhang、HEAVENRAIN、WR_Z、苏菲小白、gzciv、玉米派、神秘男子A、Q6022、khenlee、每周虎、megodno、lpufred417、reallh、齐东野人、月亮熊、紫堇、
-- **Czech**: *František Žemlička* (zemlifr), fri and *Osgiliat Bbc* (Tedragon)
+- **Chinese (traditional)**: ljkTransifex and *Po-Chun Huang* (aphroteus)
+- **Czech**: Ardenlax, *František Žemlička* (zemlifr), fri, *Martin Furejta* (hackis.bell), Nostur, *Osgiliat Bbc* (Tedragon), *Petr Hála* (TheSprtCZ), Obsidet and *Vojtěch Valigura* (Vajgl)
 - **Danish**: *Anders Rundh* (Ajes), *Kristian Gram* (Gram123) and *Patrick Larsen* (Hatsen)
-- **Finnish**: *Kai Huuhko* (kuuko), *Kai Metsävainio* (metska) and the base game patch from the Finnish community of http://kahkonen.arkku.net/civ4.php - *Mika M. Kähkönen*, *Ville Rautapää*, *Miikka Ryökäs* (Kizor), *Erkka Koski*, *Tatu Lajunen* (Flamer), *Joonas*, *Jouni Tolvanen* (Rheinmetall), *Tapani Kauppinen*, *Juho Määttä*, *Aleksi Roinila* (Exel), *Juha Salminen*, *Jouko Salminen*, *Taneli Tolonen* (Laahustaja), *Miikka Sohlman* (Hipsu), *Jarkko Lehtola*
+- **Dutch**: mhwildeman and *Valentijn Reza*
+- **Finnish**: HarryGasm, *Kai Huuhko* (kuuko), *Kai Metsävainio* (metska), *Mika Heikkilä*, *Sami Kuusisto* (6sto) and the base game patch from the Finnish community of http://kahkonen.arkku.net/civ4.php - *Mika M. Kähkönen*, *Ville Rautapää*, *Miikka Ryökäs* (Kizor), *Erkka Koski*, *Tatu Lajunen* (Flamer), *Joonas*, *Jouni Tolvanen* (Rheinmetall), *Tapani Kauppinen*, *Juho Määttä*, *Aleksi Roinila* (Exel), *Juha Salminen*, *Jouko Salminen*, *Taneli Tolonen* (Laahustaja), *Miikka Sohlman* (Hipsu), *Jarkko Lehtola*
 - **French**: calvitix, Falc, faskiltarace and *Hadrien Dussuel* (dbkblk)
-- **German**: Heini, jonnius, *Leonard König* (LeonardK), *Ludwig Friedemann*, *Marcel Haring* (emukis), *Marco tom Suden* (Jaison), *Markus Oesterle* (themanwhosold), *Matthias Meger*, *Maximilian Fendesak* (Camellion), *Raymond Vetter* (raymond_de), Snofru1, The Doc, Therkaz and YSelfTool
-- **Greek**: *Alexandros Manos* (Alainto), *Dimitrios Kekakos* (Kekakos),, *Dionissios Antiochos* (nionios), *Loukas Skouroliakos* (ouzomezes) and *Theo Ratzos* (koteo), 
-- **Hungarian**: Base game patch from the Hungarian community of http://civilizacio.zump.co.cc - *kabcsi*, *sus*, *vs*
-- **Italian**: Cammagno, *Corrado Sinigoi* (45°) and Psyluke
+- **German**: Ankomias, BadParadise, Heini, jonnius, *Leonard König* (LeonardK), *Loris Janosch* (Loris125), *Ludwig Friedemann*, *Marcel Haring* (emukis), *Marco tom Suden* (Jaison), *Markus Oesterle* (themanwhosold), *Matthias Meger*, *Maximilian Fendesak* (Camellion), *Raymond Vetter* (raymond_de), *Rudiger Wolf* (rudigerflow), Snofru1, *Stefan Rohrbacher* (Warwick), The Doc, Therkaz, *Thomas Hirsch* (thirsch) and YSelfTool
+- **Greek**: *Alexandros Manos* (Alainto), *Dimitrios Kekakos* (Kekakos),, *Dionissios Antiochos* (nionios), *Loukas Skouroliakos* (ouzomezes), *Marianna Kotzia* and *Theo Ratzos* (koteo), 
+- **Hungarian**: Aqualung, davesajt, *Peter Darvasi* (darpet), *Tibor Buzási* and the Hungarian community of http://civilizacio.zump.co.cc - *kabcsi*, *sus*, *vs*
+- **Italian**: Cammagno, *Corrado Sinigoi* (45°), *Daniele Tricoli* (eriol), *Federico Aiudi* (iSNoW), *Luca Ciarrocchi* (ciarr96), Psyluke, Rivoltano and SecondCloud500
 - **Japanese**: Base game translation: Cyberfront; Rise of Mankind: Unknown (*if you are the author, please contact us to be added here*)
-- **Korean**: *Sungjin Kang* (ujuckr), *Yoonsik Eom* (eomys0210) and the base game translation: 翻译人员：freesand、孟仲玄、shell、clover、水滴子、Lohengrin、yq19820430、eaglet123、danielzhuang、namelessone、scoutzxb、willzhang、HEAVENRAIN、WR_Z、苏菲小白、gzciv、玉米派、神秘男子A、Q6022、khenlee、每周虎、megodno、lpufred417、reallh、齐东野人、月亮熊、紫堇、liuzhimou; Rise of Mankind: Unknown (*if you are the author, please contact us to be added here*)
-- **Polish**: attyla, Karysu, lordfistas and the Polish community of http://civ.org.pl
+- **Korean**: *Irene Park* (ireneNK), *Kevin Min* (candyson1), *Sungjin Kang* (ujuckr), *Yoonsik Eom* (eomys0210) and the base game translation: 翻译人员：freesand、孟仲玄、shell、clover、水滴子、Lohengrin、yq19820430、eaglet123、danielzhuang、namelessone、scoutzxb、willzhang、HEAVENRAIN、WR_Z、苏菲小白、gzciv、玉米派、神秘男子A、Q6022、khenlee、每周虎、megodno、lpufred417、reallh、齐东野人、月亮熊、紫堇、liuzhimou; Rise of Mankind: Unknown (*if you are the author, please contact us to be added here*)
+- **Polish**: *Agata Pawlik* (Yavanna), attyla, Karysu, lordfistas, *Marcin Kozłowski* (martinkoza), *Piotr Filipek* (Piotrek290) and the Polish community of http://civ.org.pl
 - **Portuguese**: Base game translation from the Civ4BR project https://sourceforge.net/projects/civ4br/
-- **Russian**: Artemiy, Batumski_brodyaga, KuzMad, *Maksim Soifer* (masaykh) and the Russian community of http://civfanatics.ru - *Alexander "akasoft" Kozlov*, *Alexander "GooRoo" Naumov*, *Alexander "Sapiens" Maltsev*, *Alexey " General" Izvalov*, *Andrey "Anger" Markevich*, *Andrey "KoS" Kostyushko*, *Andrey "sweeper" Sartakov*, *Anna Kostyushko*, *BuDDaH*, *DelSt*, *Dmitry "Himik" Filimonov*, *EmtecX*, *JCricket*, *Koldun*, *Kypchak*, *Marten*, *Maxim "Watcher" Volkov*, *Michail " White Hawk" Egorov*, *mute*, *MuXa*, *Nikolay "vpadlo" Bondarenko*, *Oleg "Gost'" Joughin*, *Peter " Pet" Svikh*, *PSYX*, *Roman "Kot Begemot" Sovetskikh*, *S_Twist*, *Solver*, *Sure*, *Victor "Witan" Trufen*, *Vlad "swan" Lebedinsky*, *Vladimir "liar" Kiprinov*, *Vladimir "Vinnie" Marchenko*
-- **Spanish**: BdLyO, *Carlos Dominguez* (RyoHazuki), frenchiveruti, *Hadrien Dussuel* (dbkblk), Kirkpatrick,  Maulet
+- **Russian**: Artemiy, Batumski_brodyaga, *Воронин Дмитрий* (imanich911), I_Eide, Kakadu, KuzMad, *Maksim Soifer* (masaykh), *Michael Orlov* (mikeorlov), zxcvbnm3230 and the Russian community of http://civfanatics.ru - *Alexander "akasoft" Kozlov*, *Alexander "GooRoo" Naumov*, *Alexander "Sapiens" Maltsev*, *Alexey " General" Izvalov*, *Andrey "Anger" Markevich*, *Andrey "KoS" Kostyushko*, *Andrey "sweeper" Sartakov*, *Anna Kostyushko*, *BuDDaH*, *DelSt*, *Dmitry "Himik" Filimonov*, *EmtecX*, *JCricket*, *Koldun*, *Kypchak*, *Marten*, *Maxim "Watcher" Volkov*, *Michail " White Hawk" Egorov*, *mute*, *MuXa*, *Nikolay "vpadlo" Bondarenko*, *Oleg "Gost'" Joughin*, *Peter " Pet" Svikh*, *PSYX*, *Roman "Kot Begemot" Sovetskikh*, *S_Twist*, *Solver*, *Sure*, *Victor "Witan" Trufen*, *Vlad "swan" Lebedinsky*, *Vladimir "liar" Kiprinov*, *Vladimir "Vinnie" Marchenko*
+- **Spanish**: BdLyO, *Carlos Dominguez* (RyoHazuki), *Diego Bruschetti*, frenchiveruti, grillo1989, *Hadrien Dussuel* (dbkblk), Kirkpatrick, Kroji, Maulet and *Toni Suarez* (el_mancebo)
+- **Turkish**: *Rıza Han Yılmaz* (KuMLuK) and schaft
 
-## Community developpers
+## Community developers
 
-> **Various developpers or teams:**
+> **Various developers or teams:**
 
 - **Better AI Team**: Better AI.
 - **Dexy**: Fixed Borders, Surround And Destroy.

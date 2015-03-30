@@ -25,8 +25,9 @@ _**This expansion pack is in continuous development, so expect updates every mon
 <hr>
 # Standard installation
 
-<center><a href="http://sourceforge.net/projects/anewdawn/files/latest/download?source=files"><img src="{{ site.url }}/images/download_small_green.jpg" width="50"  height="50" border="0" /><strong>DOWNLOAD INSTALLER NOW</strong></a></center>
+<center><a target="_blank" href="http://sourceforge.net/projects/anewdawn/files/latest/download?source=files"><img src="{{ site.url }}/images/download_small_green.jpg" width="50"  height="50" border="0" /><strong>DOWNLOAD INSTALLER NOW</strong></a></center>
   <br>
+<a target="_blank" href="http://www.moddb.com/mods/rise-of-mankind-a-new-dawn">Alternative: the installer can also be downloaded from our Moddb page.</a>
 
 **Installation instructions**
 : 
@@ -62,7 +63,7 @@ If you don't have internet on that PC, either redownload the updated installer o
 _**Note**_ : You won't be able to play in the matchmaker online with this Steam patch but you'll still be able to play by direct IP with your friends or with players with the CD version (v3.19).
 
 <hr>
-# Developper installation (SVN)[english]
+# Developer installation (SVN)[english]
 
 We use SVN to ease the development. If you want to get involve, just follow these instructions:
 
